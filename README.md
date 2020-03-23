@@ -6,7 +6,7 @@ The program is intended for live tracking of player statistics at a basketball g
 
 ## Usage instructions
 + Download and extract GameStatistics.rar
-+ Run GameStatistics (Application file) from GameStatistics\bin\Debug
++ Run GameStatistics (Application file) from GameStatistics\GameStatistics\bin\Debug
 
 ## Programming language
 + C#
