@@ -8,8 +8,11 @@ The program is intended for live tracking of player statistics at a basketball g
 + Download and extract GameStatisticsSetup.rar located in Releases
 + Run setup.exe from /GameStatisticsSetup/Debug
 + After installation run GameStatistics.exe from your installation folder, or run shortcut on Desktop
-+ Make sure you run it as administrator!
++ **Make sure you run it as administrator**
 + Before you start working with the program, we recommend you to visit BasketballGameStatisticsInstruction.pdf
+
+## Compatibility
++ Windows 7/8/10
 
 ## Programming language
 + C#
